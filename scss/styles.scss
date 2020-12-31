@@ -1,5 +1,7 @@
-// partial imports
+// utility import
+
 @import 'utilities/index';
+
 /* ============================================= */
 /*              Base styles                      */
 /* ============================================= */
@@ -19,8 +21,10 @@
   }
   
 
-  
+  // components import
 
   @import 'components/index';
+
+ // Base Import
 
   @import 'base/index';
